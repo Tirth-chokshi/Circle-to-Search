@@ -5,16 +5,6 @@ This app is based on Samsung and Google's Circle to Search feature. Because root
 Samsung
 https://www.youtube.com/watch?v=Zj78u6WxXS0
 
-Google
-https://www.youtube.com/watch?v=WdbeqSQjZI8
-
-Video of the flow
-
-
-https://github.com/arun0102/CircleToSearch/assets/15208553/bd7809fe-7fa6-4a59-87a0-9f8f60d53d65
-
-
-
 
 Steps-
 - Get permission to show overlay on top
